@@ -1,0 +1,15 @@
+D:\CIPAce Work Section\20230131练习\设计模式\DesignPractise\DesignPractise\bin\Debug\net7.0\DesignPractise.exe
+D:\CIPAce Work Section\20230131练习\设计模式\DesignPractise\DesignPractise\bin\Debug\net7.0\DesignPractise.deps.json
+D:\CIPAce Work Section\20230131练习\设计模式\DesignPractise\DesignPractise\bin\Debug\net7.0\DesignPractise.runtimeconfig.json
+D:\CIPAce Work Section\20230131练习\设计模式\DesignPractise\DesignPractise\bin\Debug\net7.0\DesignPractise.dll
+D:\CIPAce Work Section\20230131练习\设计模式\DesignPractise\DesignPractise\bin\Debug\net7.0\DesignPractise.pdb
+D:\CIPAce Work Section\20230131练习\设计模式\DesignPractise\DesignPractise\obj\Debug\net7.0\DesignPractise.csproj.AssemblyReference.cache
+D:\CIPAce Work Section\20230131练习\设计模式\DesignPractise\DesignPractise\obj\Debug\net7.0\DesignPractise.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIPAce Work Section\20230131练习\设计模式\DesignPractise\DesignPractise\obj\Debug\net7.0\DesignPractise.AssemblyInfoInputs.cache
+D:\CIPAce Work Section\20230131练习\设计模式\DesignPractise\DesignPractise\obj\Debug\net7.0\DesignPractise.AssemblyInfo.cs
+D:\CIPAce Work Section\20230131练习\设计模式\DesignPractise\DesignPractise\obj\Debug\net7.0\DesignPractise.csproj.CoreCompileInputs.cache
+D:\CIPAce Work Section\20230131练习\设计模式\DesignPractise\DesignPractise\obj\Debug\net7.0\DesignPractise.dll
+D:\CIPAce Work Section\20230131练习\设计模式\DesignPractise\DesignPractise\obj\Debug\net7.0\refint\DesignPractise.dll
+D:\CIPAce Work Section\20230131练习\设计模式\DesignPractise\DesignPractise\obj\Debug\net7.0\DesignPractise.pdb
+D:\CIPAce Work Section\20230131练习\设计模式\DesignPractise\DesignPractise\obj\Debug\net7.0\DesignPractise.genruntimeconfig.cache
+D:\CIPAce Work Section\20230131练习\设计模式\DesignPractise\DesignPractise\obj\Debug\net7.0\ref\DesignPractise.dll
